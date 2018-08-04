@@ -1,0 +1,4 @@
+# ignore stuff for the gibber interfaces
+
+*.conf
+*.code-workspace
