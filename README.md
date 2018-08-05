@@ -1,4 +1,4 @@
-# Welcome to Gibber
+# gibber
 
 ## The Mission
 
@@ -6,3 +6,7 @@
 handle on emerging digital markets.
 
 ## Table of Contents
+
+- Introduction
+- Bittrex Assistant
+- Gemini Assistant
