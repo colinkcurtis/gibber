@@ -1,12 +1,2 @@
-# gibber
-
-## The Mission
-
-- Make easily accessible and helpful interfaces so that people can get their own
-handle on emerging digital markets.
-
-## Table of Contents
-
-- Introduction
-- Bittrex Assistant
-- Gemini Assistant
+# public-API-request-and-validation
+methods to request data from an unsecured REST API and then check the data for 'bad' data
