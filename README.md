@@ -12,9 +12,8 @@
 
 prerequisites (installation of these included below):
 
-MySQL server
-python 3
-pip
+- MySQL server
+- python 3
 
 ```To set up Gibber out for yourself:
 
