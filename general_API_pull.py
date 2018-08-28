@@ -267,6 +267,7 @@ class API_pull_data:
       
       i+=1
       
+      print("ok")
     return any_null_values_anywhere_in_data, any_invalid_type_values_anywhere_in_data
 
 
